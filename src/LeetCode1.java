@@ -1,8 +1,8 @@
-/**
+/*
  * @作者 zjl
  * @题目描述 两数之和
  * @时间 2020-12-21
- **/
+ */
 
 class LeetCode1 {
     public int[] twoSum(int[] nums, int target) {
